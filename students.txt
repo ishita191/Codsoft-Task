@@ -1,0 +1,8 @@
+ishita panchal,1,A
+ishita Panchal,1, A
+Rinkita panchal,3, A+
+Ishita panchal,1,A+
+Rinkita Panchal,2, A
+Tanish PAnchal,3, A
+Ishita Panchal,1,A
+HArshita ,2,B
